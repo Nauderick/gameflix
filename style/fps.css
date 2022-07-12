@@ -1,0 +1,16 @@
+body {
+    background-image: url(../assets/fps.assets/background-fps.jpg);
+    background-repeat: no-repeat;
+}
+
+.jogo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../assets/fps.assets/cs.capa.jpg');
+    background-size: cover;
+    height: 600px;
+    position: relative;
+}
